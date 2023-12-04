@@ -1,0 +1,14 @@
+Einkaufszettel	|
+				|
+	- Klopapier |
+	- Hähnchen	|
+	- Eier		|
+	- Toast		|
+	- Milch		|
+	- Schinken	|
+	- Marmelade	|
+	- Frischkäse|
+	- Trinken	|
+	- Eis		|
+	- Wurst		|
+________________|	|
