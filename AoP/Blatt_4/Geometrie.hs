@@ -7,7 +7,7 @@ data Gerade = Gerade {anstieg :: Double, spy :: Double}
 --4.2
 auswerten :: Gerade -> Double -> Double
 auswerten (Gerade m1 n1) x = m1 * x + n1 
--- die Funktion "auswerten" benutzt den Dateitypen 
+-- die Funktion "auswerten" benutzt den Dateitypen "Gerade" 
 --4.3
 data Punkt = Punkt {xkor :: Double, ykor :: Double} deriving Show
 schnittpunkt :: Gerade -> Gerade -> Punkt
