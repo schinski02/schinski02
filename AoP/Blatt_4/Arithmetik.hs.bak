@@ -1,0 +1,22 @@
+data Ausdruck = Konstante Integer
+    |Variable String
+    |Summe Ausdruck Ausdruck
+    |Differenz Ausdruck Ausdruck
+    |Produkt Ausdruck Ausdruck
+    |Quotient Ausdruck Ausdruck
+    deriving (Show)
+
+ausdruckNachString :: Ausdruck -> String
+ausdruckNachString (Konstante n) = show n
+ausdruckNachString (Variable v) = v
+ausdruckNachString (Summe e1 e2) = "(" ++ ausdruckNachString e1 ++ " + " ++ ausdruckNachString e2 ++ ")"
+ausdruckNachString (Differenz e1 e2) = "(" ++ ausdruckNachString e1 ++ " - " ++ ausdruckNachString e2++ ")"
+ausdruckNachString (Produkt e1 e2) = "(" ++ ausdruckNachString e1 ++ " * " ++ ausdruckNachString e2 ++ ")"
+ausdruckNachString (Quotient e1 e2) = "(" ++ ausdruckNachString e1 ++ " / " ++ ausdruckNachString e2 ++ ")"
+
+
+belegungVonVariable :: String -> [(String, Integer)] -> Integer
+belegungVonVariable a [] = error (a ++ " ist nicht deffiniert")
+belegungVonVariable a ((b, c): xs)
+    | (a == b) = c 
+    | (a /= b) = (belegungVonVariable a xs)
