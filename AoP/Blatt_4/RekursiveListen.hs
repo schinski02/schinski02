@@ -5,6 +5,8 @@
 -- Aufgabe 2
 
 --1
+{-# OPTIONS_GHC -Wno-unrecognised-pragmas #-}
+{-# HLINT ignore "Use foldr" #-}
 istLeer ::  [a] -> Bool
 istLeer [] = True
 istLeer _ = False
@@ -69,8 +71,9 @@ verkette :: [a] -> [a] -> [a]
 verkette (x:xs) (y:ys) = (x:xs) ++ (y:ys)
 
 --13
-ruckwaerts :: [a] -> [a]
-
+rueckwaerts :: [a] -> [a]
+rueckwaerts [] = []
+rueckwaerts (x:xs) = rueckwaerts xs ++ [x]
 
 --17
 
