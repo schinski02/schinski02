@@ -15,5 +15,5 @@ schnittpunkt (Gerade m1 n1) (Gerade m2 n2) =
     Punkt ((n1 - n2) / (m2 - m1)) (auswerten (Gerade m1 n1) ((n1 - n2) / (m2 - m1)))
 
  --4.4
-flaechezwischengraphen :: Gerade -> Gerade -> Double -> Double -> Double
-flaechezwischengraphen (Gerade m1 n1) (Gerade m2 n2) x1 x2 = abs ((m1 * 0.5 * x1^^2 + n1*x1) - (m1 * 0.5 *x2^^2 + n1*x2)) + abs ((m2 * 0.5 * x1^^2 + n2*x1) - (m2 * 0.5 * x2^^2 + n2*x2))
+flaechezwischengeraden :: Gerade -> Gerade -> Double -> Double -> Double
+flaechezwischengeraden (Gerade m1 n1) (Gerade m2 n2) x1 x2 = abs ((m1 * 0.5 * x2^2 + n1*x1) + (m1 * 0.5 *x2^2 + n1*x2)) - abs ((m2 * 0.5 * x2^2 + n2*x2) + (m2 * 0.5 * x1^2 + n2*x1))
