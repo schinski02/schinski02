@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2024.4.17)  13 MAY 2024 23:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2024.4.17)  14 MAY 2024 00:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -41,6 +41,7 @@ Package acmart Info: Explicitly selecting natbib mode on input line 137.
 Package acmart Info: Not using anonymous mode on input line 145.
 Package acmart Info: Not using timestamp mode on input line 153.
 Package acmart Info: Not using authordraft mode on input line 163.
+Package acmart Info: Using nonacm mode on input line 178.
 Class acmart Info: Using format sigconf, number 4 on input line 178.
 Class acmart Info: Using fontsize 9pt on input line 280.
  (D:\MikTex\tex/latex/amscls\amsart.cls
@@ -702,13 +703,10 @@ nuxLibertineT-TLF.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 3576.
 )
-
-Class acmart Warning: The macro \acmPriceis obsolete. ACM no longer prints the 
-price in bibstrip. on input line 48.
-
 Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 73.
 
 \c@theorem=\count312
+
 (D:\MikTex\tex/latex/preprint\balance.sty
 Package: balance 1999/02/23 4.3 (PWD)
 \oldvsize=\dimen193
@@ -900,36 +898,33 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
  Excluding 'CCSXML' comment.
-Class acmart Info: Printing folios on input line 218.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 222.
+(Font)              scaled to size 17.28pt on input line 223.
 LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF o
-n input line 222.
+n input line 223.
 
 (D:\MikTex\tex/latex/libertine\t1linuxbiolinumt-tlf.fd
 File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
 uxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 222.
+(Font)              scaled to size 17.28pt on input line 223.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxBiolinumT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 222.
+(Font)              scaled to size 17.28pt on input line 223.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 222.
+(Font)              scaled to size 12.0pt on input line 223.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 223.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 222.
+(Font)              scaled to size 10.0pt on input line 223.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.8pt on input line 222.
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.6pt on input line 222.
 
 (D:\MikTex\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
@@ -937,347 +932,126 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 (D:\MikTex\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF
- on input line 222.
 
+Class acmart Warning: ACM no longer collects authors' postal addresses. I am ig
+noring your street address on input line 223.
+
+
+Class acmart Warning: ACM no longer collects authors' postal addresses. I am ig
+noring your postal code on input line 223.
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 9.0pt on input line 223.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 223.
+LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF
+ on input line 223.
 (D:\MikTex\tex/latex/libertine\ts1linuxlibertinet-tlf.fd
 File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.8pt on input line 222.
+(Font)              scaled to size 9.0pt on input line 223.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 222.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 222.
-
-
-Class acmart Warning: ACM no longer collects authors' postal addresses. I am ig
-noring your street address on input line 222.
-
-
-Class acmart Warning: ACM no longer collects authors' postal addresses. I am ig
-noring your postal code on input line 222.
-
-
-Class acmart Warning: ACM no longer collects authors' postal addresses. I am ig
-noring your street address on input line 222.
-
-
-Class acmart Warning: ACM no longer collects authors' postal addresses. I am ig
-noring your street address on input line 222.
-
-
-Class acmart Warning: ACM no longer collects authors' postal addresses. I am ig
-noring your street address on input line 222.
-
-
-Class acmart Warning: ACM no longer collects authors' postal addresses. I am ig
-noring your street address on input line 222.
-
-
-Class acmart Warning: ACM no longer collects authors' postal addresses. I am ig
-noring your postal code on input line 222.
-
-
-Class acmart Warning: ACM no longer collects authors' postal addresses. I am ig
-noring your street address on input line 222.
-
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 222.
-LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 222.
+(Font)              scaled to size 9.0pt on input line 223.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 7.0pt on input line 222.
-LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 222.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 222.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 222.
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 222.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 222.
-LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 222.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 222.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 222.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 222.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 222.
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 222.
-LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.2pt on input line 222.
-LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 23
-7.
-(D:\MikTex\tex/latex/inconsolata\t1zi4.fd
-File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
-)
-LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 9.0pt on input line 237.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `zi4' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 7.3pt on input line 252.
- [1.1{C:/Users/schinski/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{D:/Mi
-kTex/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{D:/MikTex/fonts/enc/dvips/liber
-tine/lbtn_76gpa5.enc}{D:/MikTex/fonts/enc/dvips/libertine/lbtn_naooyc.enc}
+(Font)              scaled to size 9.0pt on input line 223.
 
-{D:/MikTex/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{D:/MikTex/fonts/enc/dvips
-/libertine/lbtn_7grukw.enc}{D:/MikTex/fonts/enc/dvips/inconsolata/i4-t1-4.enc}]
- [2.2]
-Overfull \hbox (2.79185pt too wide) in paragraph at lines 425--429
-\T1/LinuxLibertineT-TLF/m/n/9 (-20) Your work should use stan-dard L[]T[]X sec-
-tion-ing com-mands: [][]\T1/zi4/m/n/9 section[]\T1/LinuxLibertineT-TLF/m/n/9 (-
-20) ,
- []
 
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 223.
 
-Overfull \hbox (1.26605pt too wide) in paragraph at lines 425--429
-[][]\T1/zi4/m/n/9 subsection[]\T1/LinuxLibertineT-TLF/m/n/9 (-20) , [][]\T1/zi4
-/m/n/9 subsubsection[]\T1/LinuxLibertineT-TLF/m/n/9 (-20) , and [][]\T1/zi4/m/n
-/9 paragraph[]\T1/LinuxLibertineT-TLF/m/n/9 (-20) . They should be num-
- []
 
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\\' on input line 223.
 
-Package natbib Warning: Citation `Lamport:LaTeX' on page 3 undefined on input l
-ine 511.
 
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@centercr' on input line 223.
 
-Overfull \hbox (4.77193pt too wide) in paragraph at lines 561--574
-\T1/LinuxLibertineT-TLF/m/n/9 (-20) 2000 char-ac-ters long (in-clud-ing spaces)
-. \T1/LinuxLibertineT-TLF/b/n/9 (-20) Fig-ure de-scrip-tions should
- []
 
-[3.3{D:/MikTex/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}]
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sc' will be
-(Font)              scaled to size 9.0pt on input line 592.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\rightskip' on input line 223.
 
 
-Package natbib Warning: Citation `Abril07' on page 4 undefined on input line 61
-7.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@flushglue' on input line 223.
 
 
-Package natbib Warning: Citation `Cohen07' on page 4 undefined on input line 61
-8.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\leftskip' on input line 223.
 
 
-Package natbib Warning: Citation `JCohen96' on page 4 undefined on input line 6
-19.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@flushglue' on input line 223.
 
 
-Package natbib Warning: Citation `Kosiur01' on page 4 undefined on input line 6
-19.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\finalhyphendemerits' on input line 223.
 
 
-Package natbib Warning: Citation `Harel79' on page 4 undefined on input line 62
-1.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 223.
 
 
-Package natbib Warning: Citation `Editor00' on page 4 undefined on input line 6
-22.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\parindent' on input line 223.
 
 
-Package natbib Warning: Citation `Editor00a' on page 4 undefined on input line 
-623.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 223.
 
 
-Package natbib Warning: Citation `Spector90' on page 4 undefined on input line 
-625.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\parfillskip' on input line 223.
 
 
-Package natbib Warning: Citation `Douglass98' on page 4 undefined on input line
- 626.
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@skip' on input line 223.
 
 
-Package natbib Warning: Citation `Knuth97' on page 4 undefined on input line 62
-7.
-
-
-Package natbib Warning: Citation `Andler79' on page 4 undefined on input line 6
-29.
-
-
-Package natbib Warning: Citation `Hagerup1993' on page 4 undefined on input lin
-e 629.
-
-
-Package natbib Warning: Citation `Smith10' on page 4 undefined on input line 63
-0.
-
-
-Package natbib Warning: Citation `VanGundy07' on page 4 undefined on input line
- 631.
-
-
-Package natbib Warning: Citation `Harel78' on page 4 undefined on input line 63
-2.
-
-
-Package natbib Warning: Citation `Bornmann2019' on page 4 undefined on input li
-ne 633.
-
-
-Package natbib Warning: Citation `AnzarootPBM14' on page 4 undefined on input l
-ine 633.
-
-
-Package natbib Warning: Citation `Clarkson85' on page 4 undefined on input line
- 633.
-
-
-Package natbib Warning: Citation `anisi03' on page 4 undefined on input line 63
-4.
-
-
-Package natbib Warning: Citation `Thornburg01' on page 4 undefined on input lin
-e 635.
-
-
-Package natbib Warning: Citation `Ablamowicz07' on page 4 undefined on input li
-ne 635.
-
-
-Package natbib Warning: Citation `Poker06' on page 4 undefined on input line 63
-5.
-
-
-Package natbib Warning: Citation `Obama08' on page 4 undefined on input line 63
-6.
-
-
-Package natbib Warning: Citation `Novak03' on page 4 undefined on input line 63
-6.
-
-
-Package natbib Warning: Citation `Lee05' on page 4 undefined on input line 636.
-
-
-
-Package natbib Warning: Citation `JoeScientist001' on page 4 undefined on input
- line 637.
-
-
-Package natbib Warning: Citation `rous08' on page 4 undefined on input line 638
-.
-
-
-Package natbib Warning: Citation `SaeediMEJ10' on page 4 undefined on input lin
-e 639.
-
-
-Package natbib Warning: Citation `SaeediJETC10' on page 4 undefined on input li
-ne 639.
-
-
-Package natbib Warning: Citation `Kirschmer:2010:AEI:1958016.1958018' on page 4
- undefined on input line 641.
-
-
-Package natbib Warning: Citation `MR781536' on page 4 undefined on input line 6
-42.
-
-
-Package natbib Warning: Citation `MR781537' on page 4 undefined on input line 6
-42.
-
-
-Package natbib Warning: Citation `2004:ITE:1009386.1010128' on page 4 undefined
- on input line 644.
-
-
-Package natbib Warning: Citation `Kirschmer:2010:AEI:1958016.1958018' on page 4
- undefined on input line 644.
-
-
-Package natbib Warning: Citation `TUGInstmem' on page 4 undefined on input line
- 645.
-
-
-Package natbib Warning: Citation `Thornburg01' on page 4 undefined on input lin
-e 645.
-
-
-Package natbib Warning: Citation `CTANacmart' on page 4 undefined on input line
- 645.
-
-
-Package natbib Warning: Citation `R' on page 4 undefined on input line 646.
-
-
-Package natbib Warning: Citation `UMassCitations' on page 4 undefined on input 
-line 646.
-
-Processing 'acks' comment.
-\openout3 = `comment.cut'.
-
- Comment 'acks' writing to comment.cut.
-Straight input of comment.cut. (comment.cut) (seminar-paper.bbl
-
-Package natbib Warning: Empty `thebibliography' environment on input line 40.
-
-) [4.4{D:/MikTex/fonts/enc/dvips/libertine/lbtn_ncsllp.enc}]
-
-Package natbib Warning: There were undefined citations.
-
-
-Overfull \vbox (1.549pt too high) has occurred while \output is active []
-
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.8pt on input line 744.
-
-Overfull \hbox (4.18721pt too wide) has occurred while \output is active
- [][][][] 
- []
-
-
-Overfull \hbox (4.18721pt too wide) has occurred while \output is active
- [][] 
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\newline' on input line 223.
 
 (D:\MikTex\tex/generic/stringenc\se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 )
 (D:\MikTex\tex/generic/stringenc\se-utf8.def
 File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
-) [5.5] (seminar-paper.aux)
+) [1.1{C:/Users/schinski/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{D:/M
+ikTex/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{D:/MikTex/fonts/enc/dvips/libe
+rtine/lbtn_76gpa5.enc}
+
+{D:/MikTex/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{D:/MikTex/fonts/enc/dvips
+/libertine/lbtn_naooyc.enc}{D:/MikTex/fonts/enc/dvips/libertine/lbtn_7grukw.enc
+}]
+(seminar-paper.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `seminar-paper.out' has not changed.
-(rerunfilecheck)             Checksum: 538D6DBAB6C20B6A835BA1A4F25E31D9;4126.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21264 strings out of 474486
- 337326 string characters out of 5760161
- 1955542 words of memory out of 5000000
- 42540 multiletter control sequences out of 15000+600000
- 740559 words of font info for 413 fonts, out of 8000000 for 9000
+ 20635 strings out of 474486
+ 323339 string characters out of 5760161
+ 1931542 words of memory out of 5000000
+ 42305 multiletter control sequences out of 15000+600000
+ 637707 words of font info for 143 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 90i,12n,131p,1012b,608s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<D:/MikTex/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb><D:/MikTex/fon
-ts/type1/public/newtx/LibertineMathMI.pfb><D:/MikTex/fonts/type1/public/newtx/L
-ibertineMathMI7.pfb><D:/MikTex/fonts/type1/public/newtx/LibertineMathRM.pfb><D:
-/MikTex/fonts/type1/public/libertine/LinBiolinumTB.pfb><D:/MikTex/fonts/type1/p
-ublic/libertine/LinLibertineT.pfb><D:/MikTex/fonts/type1/public/libertine/LinLi
-bertineTB.pfb><D:/MikTex/fonts/type1/public/libertine/LinLibertineTI.pfb><D:/Mi
-kTex/fonts/type1/public/newtx/txexs.pfb><D:/MikTex/fonts/type1/public/newtx/txm
-iaX.pfb><D:/MikTex/fonts/type1/public/newtx/txsys.pfb>
-Output written on seminar-paper.pdf (5 pages, 450559 bytes).
+ 90i,11n,131p,1012b,622s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<D:/MikTex/fonts/type1/public/libertine/LinBiolinumTB.pfb><D:/MikTex/fonts/ty
+pe1/public/libertine/LinLibertineT.pfb><D:/MikTex/fonts/type1/public/libertine/
+LinLibertineTB.pfb><D:/MikTex/fonts/type1/public/libertine/LinLibertineTI.pfb><
+D:/MikTex/fonts/type1/public/newtx/txsys.pfb>
+Output written on seminar-paper.pdf (1 page, 299699 bytes).
 PDF statistics:
- 251 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
- 109297 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 50 PDF objects out of 1000 (max. 8388607)
+ 4 named destinations out of 1000 (max. 500000)
+ 45073 words of extra memory for PDF output out of 51595 (max. 10000000)
 
