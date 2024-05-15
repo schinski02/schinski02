@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2024.4.17)  14 MAY 2024 00:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2024.4.17)  15 MAY 2024 22:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -899,28 +899,28 @@ Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
  Excluding 'CCSXML' comment.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 223.
+(Font)              scaled to size 17.28pt on input line 205.
 LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF o
-n input line 223.
+n input line 205.
 
 (D:\MikTex\tex/latex/libertine\t1linuxbiolinumt-tlf.fd
 File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
 uxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 223.
+(Font)              scaled to size 17.28pt on input line 205.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxBiolinumT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 223.
+(Font)              scaled to size 17.28pt on input line 205.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 223.
+(Font)              scaled to size 12.0pt on input line 205.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 223.
+(Font)              scaled to size 10.0pt on input line 205.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 223.
+(Font)              scaled to size 10.0pt on input line 205.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
@@ -934,88 +934,101 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 
 Class acmart Warning: ACM no longer collects authors' postal addresses. I am ig
-noring your street address on input line 223.
+noring your street address on input line 205.
 
 
 Class acmart Warning: ACM no longer collects authors' postal addresses. I am ig
-noring your postal code on input line 223.
+noring your postal code on input line 205.
 
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 223.
+(Font)              scaled to size 9.0pt on input line 205.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 223.
+(Font)              scaled to size 10.95pt on input line 205.
 LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF
- on input line 223.
+ on input line 205.
 (D:\MikTex\tex/latex/libertine\ts1linuxlibertinet-tlf.fd
 File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 223.
+(Font)              scaled to size 9.0pt on input line 205.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 223.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 223.
+(Font)              scaled to size 9.0pt on input line 205.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 223.
+(hyperref)                removing `\<let>-command' on input line 205.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 223.
+(hyperref)                removing `\\' on input line 205.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@centercr' on input line 223.
+(hyperref)                removing `\@centercr' on input line 205.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\rightskip' on input line 223.
+(hyperref)                removing `\rightskip' on input line 205.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@flushglue' on input line 223.
+(hyperref)                removing `\@flushglue' on input line 205.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leftskip' on input line 223.
+(hyperref)                removing `\leftskip' on input line 205.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@flushglue' on input line 223.
+(hyperref)                removing `\@flushglue' on input line 205.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\finalhyphendemerits' on input line 223.
+(hyperref)                removing `\finalhyphendemerits' on input line 205.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 223.
+(hyperref)                removing `\z@' on input line 205.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\parindent' on input line 223.
+(hyperref)                removing `\parindent' on input line 205.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 223.
+(hyperref)                removing `\z@' on input line 205.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\parfillskip' on input line 223.
+(hyperref)                removing `\parfillskip' on input line 205.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@skip' on input line 223.
+(hyperref)                removing `\z@skip' on input line 205.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\newline' on input line 223.
+(hyperref)                removing `\newline' on input line 205.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\CCS@General@Sicherheit und Privatsph\80\34
+4re' on input line 205.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\CCS@Punctuation@Sicherheit und Privatsph\8
+0\344re' on input line 205.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\CCS@Specific@Sicherheit und Privatsph\80\3
+44re' on input line 205.
 
 (D:\MikTex\tex/generic/stringenc\se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
@@ -1027,9 +1040,7 @@ ikTex/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{D:/MikTex/fonts/enc/dvips/libe
 rtine/lbtn_76gpa5.enc}
 
 {D:/MikTex/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{D:/MikTex/fonts/enc/dvips
-/libertine/lbtn_naooyc.enc}{D:/MikTex/fonts/enc/dvips/libertine/lbtn_7grukw.enc
-}]
-(seminar-paper.aux)
+/libertine/lbtn_naooyc.enc}] (seminar-paper.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -1038,20 +1049,19 @@ Package rerunfilecheck Info: File `seminar-paper.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 20635 strings out of 474486
- 323339 string characters out of 5760161
+ 20629 strings out of 474486
+ 323261 string characters out of 5760161
  1931542 words of memory out of 5000000
- 42305 multiletter control sequences out of 15000+600000
- 637707 words of font info for 143 fonts, out of 8000000 for 9000
+ 42302 multiletter control sequences out of 15000+600000
+ 632218 words of font info for 143 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  90i,11n,131p,1012b,622s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <D:/MikTex/fonts/type1/public/libertine/LinBiolinumTB.pfb><D:/MikTex/fonts/ty
 pe1/public/libertine/LinLibertineT.pfb><D:/MikTex/fonts/type1/public/libertine/
-LinLibertineTB.pfb><D:/MikTex/fonts/type1/public/libertine/LinLibertineTI.pfb><
-D:/MikTex/fonts/type1/public/newtx/txsys.pfb>
-Output written on seminar-paper.pdf (1 page, 299699 bytes).
+LinLibertineTB.pfb><D:/MikTex/fonts/type1/public/newtx/txsys.pfb>
+Output written on seminar-paper.pdf (1 page, 258309 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
- 45073 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 40977 words of extra memory for PDF output out of 42996 (max. 10000000)
 
